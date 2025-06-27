@@ -34,11 +34,10 @@ Welcome to my GitHub! I'm passionate about transforming raw data into strategic 
 
 ## 📂 Featured Projects
 
-🚧 **Work in Progress – Updates Coming Soon!**
+Power BI Finance Dashboard - Executive Summary
+- 💸 **[Executive financial summary.](https://github.com/dathos1984/powerbi-finance-dashboard-executive-summary)**  
+  designed to deliver a clear and actionable executive financial summary. It helps decision-makers monitor key financial metrics at a glance.
 <!--
-- 🔍 **[Sales Analytics Platform](https://github.com/dathos1984/sales-analytics-platform)**  
-  End-to-end Power BI solution with Azure Data Factory pipelines and SQL Server integration
-
 - 📦 **[Inventory Optimization Tool](https://github.com/dathos1984/inventory-optimizer)**  
   Python-based model for predicting stock shortages and reducing overstock using historical data
 
